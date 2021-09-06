@@ -39,4 +39,5 @@ int main() {
 	temp = op.Multiply(&mC, &mB);
 	temp.get()->Show();
 	cout << endl;
+	return 0;
 }
